@@ -4,6 +4,8 @@ FLAN stands for `Format Limits Are Relative`.
 
 This project is a browser-first image converter and viewer built around the custom `.8kc` container format. It focuses on palette-reduced images, bit-packed pixel indices, dithering controls, reversible embedding of the original source file, and direct in-browser inspection without converting `.8kc` back to PNG first.
 
+![2026-03-2016-08-27-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ff1362ff-0fb3-4666-8506-fcdc6debd6ff)
+
 ## What It Does
 
 - Converts images into `.8kc` using selectable bit depths from `1` to `13`
