@@ -116,6 +116,29 @@ The styling uses `Pixelify Sans`, square bevels, blue section labels, parchment-
 
 ## Running Locally
 
+## Python Prerequisites
+
+The Python app currently expects:
+
+- Python `3.11+`
+- `Flask`
+- `Pillow`
+- `NumPy`
+
+If you are setting up a fresh environment, the core dependencies are:
+
+```bash
+pip install flask pillow numpy
+```
+
+If you want process management for background execution:
+
+- `pm2` installed globally on the system
+
+```bash
+npm install -g pm2
+```
+
 Use the project virtual environment:
 
 ```bash
